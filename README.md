@@ -1,0 +1,8 @@
+## Recommender Systems
+
+This repository has some of the workbooks created during the Recommender System specialization course from Coursera.
+
+The topics covered in this repository are :
+
+ - Non-personalized recommender system
+ - Personalized recommender system : TFIDF score and User profile based
