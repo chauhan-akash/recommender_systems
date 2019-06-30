@@ -6,3 +6,5 @@ The topics covered in this repository are :
 
  - Non-personalized recommender system
  - Personalized recommender system : TFIDF score and User profile based
+ 
+ The datasets used in the workbooks are placed in the folder - data
