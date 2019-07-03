@@ -5,6 +5,6 @@ This repository has some of the workbooks created during the Recommender System 
 The topics covered in this repository are :
 
  - Non-personalized recommender system
- - Personalized recommender system : TFIDF score and User profile based
+ - Personalized recommender system : User Item based movie recommender
  
  The datasets used in the workbooks are placed in the folder - data
