@@ -6,6 +6,8 @@ The topics covered in this repository are :
 
  - Non-personalized recommender system
  - Personalized recommender system : User Item based movie recommender
-  - Personalized recommender system : User User based movie recommender
+ - Personalized recommender system : User User based movie recommender
+ - Personalized recommender system : Item Item based movie recommender
+  
  
  The datasets used in the workbooks are placed in the folder - data
