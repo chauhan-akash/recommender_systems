@@ -8,6 +8,7 @@ The topics covered in this repository are :
  - Personalized recommender system : User Item based movie recommender
  - Personalized recommender system : User User based movie recommender
  - Personalized recommender system : Item Item based movie recommender
+ - Evaluating recommender system : comparing the two algorithms 'User User' and 'Item Item' recommender using prediction accuracy metrics - RMSE and MAE
   
  
  The datasets used in the workbooks are placed in the folder - data
