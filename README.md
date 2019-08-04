@@ -4,7 +4,7 @@ This repository has some of the workbooks created during the Recommender System 
 
 The topics covered in this repository are :
 
- - Non-personalized recommender system
+ - Non-personalized recommender system : Mean based & Association rule based
  - Personalized recommender system : User Item based movie recommender
  - Personalized recommender system : User User based movie recommender
  - Personalized recommender system : Item Item based movie recommender
