@@ -10,6 +10,7 @@ The topics covered in this repository are :
  - Personalized recommender system : Item Item based movie recommender
  - Evaluating recommender system : comparing the two algorithms 'User User' and 'Item Item' recommender using prediction accuracy metrics - RMSE and MAE
  - Evaluating recommender system : comparing the two algorithms 'User User' and 'Item Item' recommender using rank aware metrics - MAP and MRR
+ - Personalized recommender system : Recommender based on matrix factorization using FunkSVD methodology. Exploring the python library Surprise for using the SVD matrix factorization.
   
  
  The datasets used in the workbooks are placed in the folder - data
